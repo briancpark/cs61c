@@ -1,0 +1,15 @@
+[submodule "proj/proj4"]
+	path = proj/proj4
+	url = git@github.com:61c-student/fa20-proj4-cython.git
+[submodule "proj/proj2"]
+	path = proj/proj2
+	url = git@github.com:61c-student/fa20-proj2-borastan.git
+[submodule "proj/proj1"]
+	path = proj/proj1
+	url = git@github.com:61c-student/fa20-proj1-briancpark.git
+[submodule "lab"]
+	path = lab
+	url = git@github.com:61c-student/fa20-lab-briancpark.git
+[submodule "proj/proj3"]
+	path = proj/proj3
+	url = git@github.com:61c-student/fa20-proj3-borastan.git

@@ -1,6 +1,6 @@
 # CS 61C
 
-CS 61C is Great Ideas in Computer Architecture (Machine Structures). I took this offering in Fall 2020 under Dan Garcia and Borivoje Nikolic. This repo contains my development setup and notes.
+CS 61C is Great Ideas in Computer Architecture (Machine Structures) at UC Berkeley. I took this offering in Fall 2020 under Dan Garcia and Borivoje Nikolic. This repo contains my development setup and notes.
 
 There is no source code here and the submodules are made private. Please DO NOT contact me for source code.
 
